@@ -41,7 +41,7 @@
 - Types d'entreprises : Entreprises de jeux vidéos (grands studios ou studios indépendants), maisons d'éditions, entreprises diverses
 - Exemple d'entreprise : Mattel Inc.
 
-![Logo Mattel](mattel_logo.png)
+![Logo Mattel](mattel_logo.svg)
 
 (source de l'image : https://about.mattel.com/ )
 
